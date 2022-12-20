@@ -2,7 +2,7 @@
 
 ![gif](./public/template.gif)
 
-A repo to bootstrap your Nouns Builder DAO's website.
+A repo to bootstrap your Nouns Builder DAO's [website](https://no-code-nounish-repo-five.vercel.app/).
 
 Here are 2 DAO site examples using this template:
 
